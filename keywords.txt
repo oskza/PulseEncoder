@@ -1,0 +1,5 @@
+PulseEncoder	KEYWORD1
+InputMode	KEYWORD1
+Edge	KEYWORD1
+begin	KEYWORD2
+getCount	KEYWORD2
